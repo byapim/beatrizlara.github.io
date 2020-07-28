@@ -1,0 +1,26 @@
+body{
+   color: black;
+    font-size: 50px;
+    background-image: url("tum.jpg"); /*para escolher a imagem*/
+    background-repeat: no-repeat; /*para comtorlar para nao repeti*/
+    background-size: 150%; /*para escolher o tamanho que vc quer*/
+    /*background-attachment: fixed;*/
+    text-align: center;
+    border: 4px #483D8B dotted;
+    padding: 10px;
+   }
+   
+   p{
+      text-align: center; 
+      
+   }
+   table{
+      text-align: center; 
+      /*width: 150%;*/
+      border: double 10px #4B0082;
+      border-radius: 20px;
+     /* border: solid 1px white; se quiser ter borda
+      width: 30;
+      height: 30;*/
+   }
+  
