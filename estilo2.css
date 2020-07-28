@@ -3,7 +3,7 @@ body{
     font-size: 50px;
     background-image: url("tum.jpg"); /*para escolher a imagem*/
     background-repeat: no-repeat; /*para comtorlar para nao repeti*/
-    background-size: 150%; /*para escolher o tamanho que vc quer*/
+    background-size: 160%; /*para escolher o tamanho que vc quer*/
     /*background-attachment: fixed;*/
     text-align: center;
     border: 4px #483D8B dotted;
@@ -11,8 +11,12 @@ body{
    }
    
    p{
-      text-align: center; 
       
+      text-align: center; 
+      font-family: Georgia, 'Times New Roman', Times, serif ;
+      
+      text-shadow: 2px 2px 5px #4B0082;
+
    }
    table{
       text-align: center; 
